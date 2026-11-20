@@ -97,6 +97,6 @@ Each task has:
 
 ## Author
 
-**Student name:** [Enter your full name]  
-**Admission number:** [Enter your admission number]  
+**Student name:BRUCE MECHA 
+**Admission number:[BSCCS/2025/66964  
 **Course:** BIT 2118 – Scientific Computing
